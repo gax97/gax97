@@ -13,4 +13,7 @@
 <h1 align="center"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gax97" alt="gax97" /> </p>
-[LinkedIN](https://www.linkedin.com/in/danilo-ga%C4%8Devi%C4%87-40951017b)
+
+<p align="center">
+<a href="https://linkedin.com/in/danilo-gacevic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-gacevic" height="30" width="30" /></a>
+</p>
