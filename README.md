@@ -12,7 +12,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gax97&layout=compact&hide=html" alt="gax97" /></p>
 <h1 align="center"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gax97" alt="gax97" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gax97" alt="gax97" /> </p> -->
 
 <p align="left">
 <a href="https://linkedin.com/in/danilo-gacevic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-gacevic" height="30" width="30" /></a>
